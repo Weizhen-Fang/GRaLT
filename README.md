@@ -1,5 +1,4 @@
-# GRaLT
-## GRaLT:Global Reservoir and Lake Training database
+# GRaLT:Global Reservoir and Lake Training database
 All the reservoir and lake samples were clipped from a one-year-collection of Landsat 8 images of year 2017. Table 1 shows the characteristics of GRaLT. 
 
 <table border=0 cellpadding=0 cellspacing=0 width=794 style='border-collapse:
