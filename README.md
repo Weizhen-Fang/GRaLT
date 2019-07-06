@@ -8,7 +8,7 @@ Man-made reservoirs are key components of terrestrial hydrological systems. Iden
 
 ### Characteristics
 
-<table border="2" cellpadding="0" cellspacing="0" width="794" style="border-collapse:
+<table border="0" cellpadding="0" cellspacing="0" width="794" style="border-collapse:
  collapse;table-layout:fixed;width:597pt"> 
  <caption>TABLE 1 CHARACTERISTICS OF THE GRALT</caption>
    <colgroup>
@@ -64,7 +64,7 @@ Man-made reservoirs are key components of terrestrial hydrological systems. Iden
 Fig.1 shows the distribution of the Global Reservoir and Lake Training database (The pink dots are reservoirs and the blue dots are lakes). Training and testing data (examples after resizing into 224×224 patches are given on the left and right sides of the figure): Lakes (Ladoga, Hicks, Taciula, Sarygamysh, Dorsoidong) and reservoirs (Navajo, Hendrik Verwoerd, Kuybyshev, Han Shui, Wellington) were all extracted from Landsat 8 TOA images with the buffered HydroLAKES layer.
 
 <div style="color:#0000FF" align="center">
-<img src="images/cover.jpg" width="600"/> 
+<img src="images/cover.jpg" width="1000"/> 
 </div>
 
 ## Download
