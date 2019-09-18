@@ -70,8 +70,8 @@ Fig.1 shows the distribution of the Global Reservoir and Lake Training database 
 ## Download
 
 You can download GRaLT-v1.0 from Baidu Drive Drive, and it is of free access for scientific and educational applications.
-* [GRaLT_v1.0-Non-resize](https://github.com/jwyang/graph-rcnn.pytorch) 
-* [GRaLT_v1.0-Resize](https://github.com/jwyang/graph-rcnn.pytorch) 
+* [GRaLT_v1.0-Non-resize](https://pan.baidu.com/s/1aL07F29VJ4GI_hsMhnEN-g) 
+* [GRaLT_v1.0-Resize](https://pan.baidu.com/s/19QLR9kXlAzA5ogXNYHbYUA) 
 
 ## Authorship
 
